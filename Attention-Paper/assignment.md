@@ -1,4 +1,4 @@
-## Answers to Transformer Questions Based on "Attention Is All You Need" Paper
+## Answers to Transformer Questions 
 
 ### 1. How does the transformer architecture improve upon traditional seq2seq models?
 The Transformer improves upon traditional seq2seq models (RNNs or LSTMs) by eliminating recurrence and convolutions. Instead, it relies entirely on self-attention mechanisms to process input sequences in parallel.
