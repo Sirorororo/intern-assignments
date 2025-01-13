@@ -1,35 +1,3 @@
-# from flask import Flask, request, jsonify
-# import joblib
-# import numpy as np
-
-# # Initialize the Flask app
-# app = Flask(__name__)
-
-# # Load the pre-trained lightweight model
-# model = joblib.load('logistic_model.pkl')
-
-# @app.route('/')
-# def home():
-#     return "Iris Classification ML Model API is Running!"
-
-# @app.route('/predict', methods=['POST'])
-# def predict():
-#     try:
-#         # Receive and process input data
-#         data = request.get_json()
-#         features = np.array(data['features']).reshape(1, -1)
-        
-#         # Make a prediction
-#         prediction = model.predict(features)[0]
-#         return jsonify({'prediction': int(prediction)})
-    
-#     except Exception as e:
-#         return jsonify({'error': str(e)})
-
-# if __name__ == '__main__':
-#     app.run(debug=True)
-
-
 from flask import Flask, request, jsonify, render_template
 import joblib
 import numpy as np
