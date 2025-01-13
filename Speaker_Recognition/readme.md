@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Voice_similarity.png" alt="image" width="300">
+  <img src="Voice_similarity.png" alt="image">
 </p>
