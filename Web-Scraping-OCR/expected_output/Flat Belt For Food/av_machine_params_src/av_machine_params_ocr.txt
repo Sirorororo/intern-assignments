@@ -1,0 +1,6 @@
+Oplional Processing
+Code
+Spac
+Add Anti-run Deviation Crosspiece
+Add PU Anti-un Deviation Crosspiece Ordering Code] PA Crosspiece Groove Size] When the flat belt material is TPU, PET canvas be applicable The default Crosspiece Processing position is the Width of the inner circumference of the flat belt the Vz, for other positions Customize according to the provided drawings Only when the Width of flat belt W250 Anti-run deviation crosspiece can be selected_ When the thickness of flat belt <1.2,only PC type Anti-run deviation crosspiece can be selected: If the diameter of flat belt pulley i5 not te 5ame as that of CrosspiGce wheel diameter; the largest dianeter of the two i5 Used Botlom |Height Selection Recommendad Crosspiecg Graove Svze Code Wuidt Pulley Dia Method Added Crosspiece ocation Drawings 040 Optional PB 050 Optional Pc 030 Optional PD 050 Prionty+ PE 060 Optional W2 080 Optional Priority Description: Indusbry General Specifications, more compact stucture 
+PB Pc PD PE PF
